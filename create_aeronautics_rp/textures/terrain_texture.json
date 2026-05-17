@@ -1,0 +1,74 @@
+{
+  "resource_pack_name": "create_aeronautics_rp",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "create_aeronautics_airship_assembler": {
+      "textures": "textures/blocks/create_aeronautics_airship_assembler"
+    },
+    "create_aeronautics_ballast_tank": {
+      "textures": "textures/blocks/create_aeronautics_ballast_tank"
+    },
+    "create_aeronautics_diesel_engine_housing": {
+      "textures": "textures/blocks/create_aeronautics_diesel_engine_housing"
+    },
+    "create_aeronautics_flight_controller": {
+      "textures": "textures/blocks/create_aeronautics_flight_controller"
+    },
+    "create_aeronautics_canopy_panel": {
+      "textures": "textures/blocks/create_aeronautics_canopy_panel"
+    },
+    "create_aeronautics_riveted_hull_block": {
+      "textures": "textures/blocks/create_aeronautics_riveted_hull_block"
+    },
+    "create_aeronautics_cloud_catcher": {
+      "textures": "textures/blocks/create_aeronautics_cloud_catcher"
+    },
+    "create_aeronautics_wing_frame": {
+      "textures": "textures/blocks/create_aeronautics_wing_frame"
+    },
+    "create_aeronautics_wind_channel": {
+      "textures": "textures/blocks/create_aeronautics_wind_channel"
+    },
+    "create_aeronautics_propulsion_chamber": {
+      "textures": "textures/blocks/create_aeronautics_propulsion_chamber"
+    },
+    "create_aeronautics_avionics_bench": {
+      "textures": "textures/blocks/create_aeronautics_avionics_bench"
+    },
+    "create_aeronautics_airframe_press": {
+      "textures": "textures/blocks/create_aeronautics_airframe_press"
+    },
+    "create_aeronautics_mooring_pylon": {
+      "textures": "textures/blocks/create_aeronautics_mooring_pylon"
+    },
+    "create_aeronautics_brass_hull_block": {
+      "textures": "textures/blocks/create_aeronautics_brass_hull_block"
+    },
+    "create_aeronautics_copper_hull_block": {
+      "textures": "textures/blocks/create_aeronautics_copper_hull_block"
+    },
+    "create_aeronautics_iron_hull_block": {
+      "textures": "textures/blocks/create_aeronautics_iron_hull_block"
+    },
+    "create_aeronautics_brass_wing_panel": {
+      "textures": "textures/blocks/create_aeronautics_brass_wing_panel"
+    },
+    "create_aeronautics_copper_wing_panel": {
+      "textures": "textures/blocks/create_aeronautics_copper_wing_panel"
+    },
+    "create_aeronautics_iron_wing_panel": {
+      "textures": "textures/blocks/create_aeronautics_iron_wing_panel"
+    },
+    "create_aeronautics_brass_canopy_frame": {
+      "textures": "textures/blocks/create_aeronautics_brass_canopy_frame"
+    },
+    "create_aeronautics_copper_canopy_frame": {
+      "textures": "textures/blocks/create_aeronautics_copper_canopy_frame"
+    },
+    "create_aeronautics_iron_canopy_frame": {
+      "textures": "textures/blocks/create_aeronautics_iron_canopy_frame"
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "create_aeronautics:airship_assembler": {
+    "textures": "create_aeronautics_airship_assembler",
+    "sound": "metal"
+  },
+  "create_aeronautics:ballast_tank": {
+    "textures": "create_aeronautics_ballast_tank",
+    "sound": "metal"
+  },
+  "create_aeronautics:diesel_engine_housing": {
+    "textures": "create_aeronautics_diesel_engine_housing",
+    "sound": "metal"
+  },
+  "create_aeronautics:flight_controller": {
+    "textures": "create_aeronautics_flight_controller",
+    "sound": "metal"
+  },
+  "create_aeronautics:canopy_panel": {
+    "textures": "create_aeronautics_canopy_panel",
+    "sound": "glass"
+  },
+  "create_aeronautics:riveted_hull_block": {
+    "textures": "create_aeronautics_riveted_hull_block",
+    "sound": "metal"
+  },
+  "create_aeronautics:cloud_catcher": {
+    "textures": "create_aeronautics_cloud_catcher",
+    "sound": "wood"
+  },
+  "create_aeronautics:wing_frame": {
+    "textures": "create_aeronautics_wing_frame",
+    "sound": "wood"
+  },
+  "create_aeronautics:wind_channel": {
+    "textures": "create_aeronautics_wind_channel",
+    "sound": "metal"
+  },
+  "create_aeronautics:propulsion_chamber": {
+    "textures": "create_aeronautics_propulsion_chamber",
+    "sound": "metal"
+  },
+  "create_aeronautics:avionics_bench": {
+    "textures": "create_aeronautics_avionics_bench",
+    "sound": "metal"
+  },
+  "create_aeronautics:airframe_press": {
+    "textures": "create_aeronautics_airframe_press",
+    "sound": "metal"
+  },
+  "create_aeronautics:mooring_pylon": {
+    "textures": "create_aeronautics_mooring_pylon",
+    "sound": "metal"
+  },
+  "create_aeronautics:brass_hull_block": {
+    "textures": "create_aeronautics_brass_hull_block",
+    "sound": "metal"
+  },
+  "create_aeronautics:copper_hull_block": {
+    "textures": "create_aeronautics_copper_hull_block",
+    "sound": "metal"
+  },
+  "create_aeronautics:iron_hull_block": {
+    "textures": "create_aeronautics_iron_hull_block",
+    "sound": "metal"
+  },
+  "create_aeronautics:brass_wing_panel": {
+    "textures": "create_aeronautics_brass_wing_panel",
+    "sound": "wood"
+  },
+  "create_aeronautics:copper_wing_panel": {
+    "textures": "create_aeronautics_copper_wing_panel",
+    "sound": "wood"
+  },
+  "create_aeronautics:iron_wing_panel": {
+    "textures": "create_aeronautics_iron_wing_panel",
+    "sound": "wood"
+  },
+  "create_aeronautics:brass_canopy_frame": {
+    "textures": "create_aeronautics_brass_canopy_frame",
+    "sound": "metal"
+  },
+  "create_aeronautics:copper_canopy_frame": {
+    "textures": "create_aeronautics_copper_canopy_frame",
+    "sound": "metal"
+  },
+  "create_aeronautics:iron_canopy_frame": {
+    "textures": "create_aeronautics_iron_canopy_frame",
+    "sound": "metal"
+  }
+}

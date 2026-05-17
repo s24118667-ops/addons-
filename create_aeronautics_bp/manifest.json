@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Create Aeronautics Addon BP",
+    "description": "Java Create Aeronautics-inspired components for Bedrock/MCPE.",
+    "uuid": "d49e7f42-9f87-47fc-86e3-c7252265f840",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 50]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "f9f013f4-0fc6-4f38-90ee-934f9e53f71c",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "95f0de84-df3b-4665-8347-ab8433190451",
+      "version": [1, 0, 0]
+    }
+  ]
+}

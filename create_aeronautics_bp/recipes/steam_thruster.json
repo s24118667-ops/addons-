@@ -1,0 +1,49 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "create_aeronautics:recipe_steam_thruster"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:copper_ingot"
+      },
+      "B": {
+        "item": "minecraft:copper_ingot"
+      },
+      "C": {
+        "item": "minecraft:copper_ingot"
+      },
+      "D": {
+        "item": "minecraft:iron_ingot"
+      },
+      "E": {
+        "item": "minecraft:blast_furnace"
+      },
+      "F": {
+        "item": "minecraft:iron_ingot"
+      },
+      "G": {
+        "item": "minecraft:redstone"
+      },
+      "H": {
+        "item": "minecraft:bucket"
+      },
+      "I": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "create_aeronautics:steam_thruster",
+      "count": 1
+    }
+  }
+}
