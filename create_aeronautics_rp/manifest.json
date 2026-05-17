@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Create Aeronautics Addon RP",
+    "description": "Resource definitions for Create Aeronautics-inspired Bedrock components.",
+    "uuid": "95f0de84-df3b-4665-8347-ab8433190451",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 50]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "1d8f0c94-94cb-4bfd-bfe4-dbe212f1d75b",
+      "version": [1, 0, 0]
+    }
+  ]
+}

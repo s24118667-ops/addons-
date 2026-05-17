@@ -1,0 +1,12 @@
+{
+  "format_version": "1.20.50",
+  "minecraft:item": {
+    "description": {
+      "identifier": "create_aeronautics:skyship_anchor",
+      "category": "Items"
+    },
+    "components": {
+      "minecraft:icon": "create_aeronautics_skyship_anchor"
+    }
+  }
+}

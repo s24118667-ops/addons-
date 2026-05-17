@@ -1,0 +1,63 @@
+{
+  "resource_pack_name": "create_aeronautics_rp",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "create_aeronautics_propeller_bearing": {
+      "textures": "textures/items/create_aeronautics_propeller_bearing"
+    },
+    "create_aeronautics_gyroscopic_stabilizer": {
+      "textures": "textures/items/create_aeronautics_gyroscopic_stabilizer"
+    },
+    "create_aeronautics_steam_thruster": {
+      "textures": "textures/items/create_aeronautics_steam_thruster"
+    },
+    "create_aeronautics_brass_airframe_sheet": {
+      "textures": "textures/items/create_aeronautics_brass_airframe_sheet"
+    },
+    "create_aeronautics_reinforced_balloon_fabric": {
+      "textures": "textures/items/create_aeronautics_reinforced_balloon_fabric"
+    },
+    "create_aeronautics_inertial_regulator": {
+      "textures": "textures/items/create_aeronautics_inertial_regulator"
+    },
+    "create_aeronautics_aeronautics_control_chip": {
+      "textures": "textures/items/create_aeronautics_aeronautics_control_chip"
+    },
+    "create_aeronautics_wind_tunnel_blade": {
+      "textures": "textures/items/create_aeronautics_wind_tunnel_blade"
+    },
+    "create_aeronautics_skyship_anchor": {
+      "textures": "textures/items/create_aeronautics_skyship_anchor"
+    },
+    "create_aeronautics_balloon_envelope": {
+      "textures": "textures/items/create_aeronautics_balloon_envelope"
+    },
+    "create_aeronautics_altimeter_module": {
+      "textures": "textures/items/create_aeronautics_altimeter_module"
+    },
+    "create_aeronautics_rudder_assembly": {
+      "textures": "textures/items/create_aeronautics_rudder_assembly"
+    },
+    "create_aeronautics_lift_cell": {
+      "textures": "textures/items/create_aeronautics_lift_cell"
+    },
+    "create_aeronautics_navigation_core": {
+      "textures": "textures/items/create_aeronautics_navigation_core"
+    },
+    "create_aeronautics_copper_turbine_blade": {
+      "textures": "textures/items/create_aeronautics_copper_turbine_blade"
+    },
+    "create_aeronautics_andesite_gearbox": {
+      "textures": "textures/items/create_aeronautics_andesite_gearbox"
+    },
+    "create_aeronautics_aerodynamic_fin": {
+      "textures": "textures/items/create_aeronautics_aerodynamic_fin"
+    },
+    "create_aeronautics_pressure_valve": {
+      "textures": "textures/items/create_aeronautics_pressure_valve"
+    },
+    "create_aeronautics_air_intake": {
+      "textures": "textures/items/create_aeronautics_air_intake"
+    }
+  }
+}
